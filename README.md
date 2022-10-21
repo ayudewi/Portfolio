@@ -10,8 +10,10 @@
 
 <h3> Exploratory data analysis </h3>
 <ul>
-<li> Data visualization using line, bar, scatter, histogram, KDE, heatmap, GIS map etc. </li>
-<li> Generated in Jupyter Notebook, Power BI, R, Stata, Excel. </li>
+<li> Operated step-by-step statistical procedures in univariate, bivariate, and multivariate analysis. </li>
+<li> Analysed regression problem, classification problem, and clustering problem.  </li>
+<li> Data visualisation using line, bar, scatter, histogram, KDE, heatmap, GIS map etc. </li>
+<li> Data generation and coding in Jupyter Notebook, R, Stata, Excel. </li>
 <li> Below is example of simple bar graph animal bites generated from <a href="https://www.kaggle.com/code/ayudewi/rabies"> my rabies exercise project </a></li>
 <img src="images/rabiesgraph.png" alt="animal bites">
 </ul>
