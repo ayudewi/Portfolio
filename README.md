@@ -6,7 +6,7 @@
 <a href="https://github.com/ayudewi"> GitHub </a> |
 <a href="https://orcid.org/0000-0001-7645-6424"> Orcid </a>
 
-<h2> Example of my data science projects from simple to complex analysis </h2>
+<h2> Skills and example of data science projects from simple to complex analysis </h2>
 
 <h3> Exploratory data analysis </h3>
 <ul>
@@ -14,7 +14,7 @@
 <li> Analysed regression problem, classification problem, and clustering problem.  </li>
 <li> Data visualisation using line, bar, scatter, histogram, KDE, heatmap, GIS map etc. </li>
 <li> Data generation and coding in Jupyter Notebook, R, Stata, Excel, and VS Code. </li>
-<li> Below is example of simple bar graph animal bites generated from <a href="https://www.kaggle.com/code/ayudewi/rabies"> my rabies exercise project </a></li>
+<li> Below is example of simple bar graph animal bites generated from <a href="https://www.kaggle.com/code/ayudewi/rabies"> rabies exercise project </a></li>
 <img src="images/rabiesgraph.png" alt="animal bites">
 </ul>
 
