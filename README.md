@@ -14,7 +14,9 @@
 <li> Analysed regression problem, classification problem, and clustering problem.  </li>
 <li> Data visualisation using line, bar, scatter, histogram, KDE, heatmap, GIS map etc. </li>
 <li> Data generation and coding in Jupyter Notebook, R, Stata, Excel, and VS Code. </li>
-<li> Below is example of simple bar graph animal bites generated from <a href="https://www.kaggle.com/code/ayudewi/rabies"> rabies exercise project </a></li>
+<li> Examples : </li>
+<h4>  
+<a href="https://www.kaggle.com/code/ayudewi/rabies"> 1. Rabies exercise project </a> </h4>
 <img src="images/rabiesgraph.png" alt="animal bites">
 </ul>
 
@@ -23,23 +25,30 @@
 <li> Mapping location, chloropleth pattern, buffer analysis, movement network, etc.
 <li> Spatial autocorrelation analysis, MCDA, etc. </li>
 <li> Map generation in ArcGIS, QGIS, Stata, Python, and R. </li>
-<li> Below is example of map disease reports generated from <a href="url"> my covid exercise project </a></li>
-<li> Below is example of geospatial analysis generated from <a href="url"> my XX exercise project </a></li>
-<img src="img_girl.jpg" alt="Girl in a jacket">
-<li> Below is example of geospatial analysis generated from <a href="url"> my XX exercise project </a></li>
-<img src="img_girl.jpg" alt="Girl in a jacket">
+<li> Examples : </li>
+<figure>
+<img src="images_girl.jpg" alt="something" style="width:45%">
+<figcaption><h4><a href="https://www.kaggle.com/code/ayudewi/rabies"> XX exercise project </a> </h4> </figcaption>
+</figure>
 </ul>
 
 <h3> Disease prediction using machine learning </h3>
 <ul>
-<li> Below is example of geospatial analysis generated from <a href="url"> my XX exercise project </a></li>
-<img src="img_girl.jpg" alt="Girl in a jacket">
+<li> Malaria prediction using .... </li>
+<figure>
+<img src="images_girl.jpg" alt="something" style="width:45%">
+<figcaption><h4><a href="https://www.kaggle.com/code/ayudewi/rabies"> XX exercise project </a> </h4> </figcaption>
+</figure>
 </ul>
 
 <h3> Bioinformatics analysis to investigate the disease origin </h3>
 <ul>
-<li> Below is example of sequencing analysis generated from <a href="url"> my XX exercise project </a></li>
-<img src="img_girl.jpg" alt="Girl in a jacket">
+<li> Sequencing and phylogenetic tree of corona </li>
+<figure>
+<img src="images_girl.jpg" alt="something" style="width:45%">
+<figcaption><h4><a href="https://www.kaggle.com/code/ayudewi/rabies"> XX exercise project </a> </h4> </figcaption>
+</figure>
+</ul>
 </ul>
 
 <h4> Thank you ! </h4>
