@@ -6,7 +6,7 @@
 <a href="https://github.com/ayudewi"> GitHub </a> |
 <a href="https://orcid.org/0000-0001-7645-6424"> Orcid </a>
 
-<h2> Skills and example of data science projects from simple to complex analysis </h2>
+<h2> Skills and example of data science projects </h2>
 
 <h3> Exploratory data analysis </h3>
 <ul>
