@@ -1,7 +1,10 @@
 # Ayu Putu Madri Dewi
 <p> Master of Public Health in Biostatistics (MPH) and Doctor of Veterinary Medicine (DVM) </p>
-<a href="https://www.linkedin.com/ayuputu.madridewi"> LinkedIn </a>
-<a href="https://www.twitter.com/ayupmdewi"> Twitter </a>
+<a href="https://www.linkedin.com/ayuputu.madridewi"> LinkedIn </a> |
+<a href="https://www.twitter.com/ayupmdewi"> Twitter </a> |
+<a href="mailto:ayudew262@gmail.com">Email </a> |
+<a href="https://github.com/ayudewi"> GitHub </a> |
+<a href="https://orcid.org/0000-0001-7645-6424"> Orcid </a>
 
 <h2> Example of my data science projects from simple to complex analysis </h2>
 
@@ -36,5 +39,4 @@
 <img src="img_girl.jpg" alt="Girl in a jacket">
 </ul>
 
-<h4> If you like my work and want to collaborate, you can contact me by : </h4><a href="mailto:ayudew262@gmail.com">email </a>  
 <h4> Thank you ! </h4>
