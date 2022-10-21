@@ -36,5 +36,5 @@
 <img src="img_girl.jpg" alt="Girl in a jacket">
 </ul>
 
-<h4> If you like my work and want to collaborate, you can contact me by : <a href="mailto:ayudew262@gmail.com">email </a>  </h4>
+<h4> If you like my work and want to collaborate, you can contact me by : </h4><a href="mailto:ayudew262@gmail.com">email </a>  
 <h4> Thank you ! </h4>
