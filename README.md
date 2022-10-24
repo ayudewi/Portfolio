@@ -10,36 +10,25 @@
 
 <h2> Skills and example of data science projects </h2>
 
-<h3> Skillss </h3>
+<h3> Skills </h3>
 <li> Analysed regression problem, classification problem, and clustering problem.  </li>
 <li> Data visualisation using line, bar, scatter, histogram, KDE, heatmap, GIS map etc. </li>
 <li> Data generation and coding in Jupyter Notebook, R, Stata, Excel, and VS Code. </li>
-<li> Examples : </li>
-<h4>  
-<a href="https://www.kaggle.com/code/ayudewi/rabies"> 1. Rabies exercise project </a> </h4>
-<img src="images/rabiesgraph.png" alt="animal bites">
+
 
 <h3> Example project 1: Malaria incidence in Africa, 2007-2017 </h3>
-Below is...............
+Below is example of analysis of malaria in Africa to analyse effect of preventive measures on malaria cases. 
 <figure>
-<img src="images_girl.jpg" alt="something" style="width:45%">
-<figcaption><h4><a href="https://www.kaggle.com/code/ayudewi/rabies"> XX exercise project </a> </h4> </figcaption>
+<img src="Malaria in Africa/MalariaCasesAfrica.png" alt="cases" width>
+<img src="Malaria in Africa/MalariaIncidenceAfrica.png" alt="incidence">
+<img src="Malaria in Africa/HeatMapMalaria.png" alt="heatmap">
+<img src="Malaria in Africa/MalariaSanitationUrban.png" alt="sanitation">
 </figure>
 
-<h3> Disease prediction using machine learning </h3>
-This project predict Malaria infection using ...
-<figure>
-<img src="images_girl.jpg" alt="something" style="width:45%">
-<figcaption><h4><a href="https://www.kaggle.com/code/ayudewi/rabies"> XX exercise project </a> </h4> </figcaption>
-</figure>
+<h3> Example project 2: Disease prediction using machine learning </h3>
+Under construction, please comeback later
 
-
-<h3> Bioinformatics analysis to investigate the disease origin </h3>
-This project attempt to proceed with sequencing and phylogenetic tree ....
-<figure>
-<img src="images_girl.jpg" alt="something" style="width:45%">
-<figcaption><h4><a href="https://www.kaggle.com/code/ayudewi/rabies"> XX exercise project </a> </h4> </figcaption>
-</figure>
-
+<h3> Example project 3: Bioinformatics analysis to investigate the disease origin </h3>
+Under construction, please comeback later
 
 <h4> Thank you ! </h4>
