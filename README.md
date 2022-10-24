@@ -14,18 +14,19 @@
 <li> Data visualisation using line, bar, scatter, histogram, KDE, heatmap, GIS map etc. </li>
 <li> Data generation and coding in Jupyter Notebook, R, Stata, Excel, and VS Code. </li>
 
-<h3> Example project 1: Malaria incidence in Africa, 2007-2017 </h3>
-Below is example of analysis of malaria in Africa to analyse effect of preventive measures on malaria cases. Check the detail and the code in repository here.
+<h3> Example 1: Rabies and animal bites </h3>
+Below is example of analysis of animal bites and rabies. Check the detail and the code in repository <a href="https://www.kaggle.com/code/ayudewi/rabies">here</a>.
+<img src="images/rabiesgraph.png" alt="bites" width=50%>
 
-<img src="images/MalariaCasesAfrica.png" alt="cases" width=50%>
-<img src="images/MalariaIncidenceAfrica.png" alt="incidence" width=50%>
+<h3> Example 2: Malaria in Africa, 2007-2017 </h3>
+Below is example of analysis of malaria in Africa to analyse effect of preventive measures on malaria cases. Check the detail and the code in repository <a href="https://www.kaggle.com/code/ayudewi/malaria-in-africa-2007-2017">here</a>.
 <img src="images/HeatMapMalaria.png" alt="heatmap" width=50%>
-<img src="images/MalariaSanitationUrban.png" alt="urban" width=50%>
 
-<h3> Example project 2: Disease prediction using machine learning </h3>
+
+<h3> Example 4: Disease prediction using machine learning </h3>
 Under construction, please comeback later
 
-<h3> Example project 3: Bioinformatics analysis to investigate the disease origin </h3>
+<h3> Example 5: Bioinformatics analysis to investigate the disease origin </h3>
 Under construction, please comeback later
 
 <h4> Thank you ! </h4>
