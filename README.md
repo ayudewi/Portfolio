@@ -6,7 +6,6 @@
 <a href="https://github.com/ayudewi"> GitHub </a> |
 <a href="https://orcid.org/0000-0001-7645-6424"> Orcid </a>
 <p>
-<h4 style="red">Sorry! This site is underconstruction, please comeback later.</h4>
 
 <h2> Skills and example of data science projects </h2>
 
@@ -17,12 +16,12 @@
 
 
 <h3> Example project 1: Malaria incidence in Africa, 2007-2017 </h3>
-Below is example of analysis of malaria in Africa to analyse effect of preventive measures on malaria cases. 
+Below is example of analysis of malaria in Africa to analyse effect of preventive measures on malaria cases. Check the detail and the code in repository here.
 <figure>
-<img src="Malaria in Africa/MalariaCasesAfrica.png" alt="cases" width>
-<img src="Malaria in Africa/MalariaIncidenceAfrica.png" alt="incidence">
-<img src="Malaria in Africa/HeatMapMalaria.png" alt="heatmap">
-<img src="Malaria in Africa/MalariaSanitationUrban.png" alt="sanitation">
+<img src="images/MalariaCasesAfrica.png" alt="cases" class="center" width=70%>
+<img src="images/MalariaIncidenceAfrica.png" alt="incidence" class="center" width=70%>
+<img src="images/HeatMapMalaria.png" alt="heatmap" class="center" width=70%>
+<img src="images/MalariaSanitationUrban.png" alt="sanitation" class="center" width=70%>
 </figure>
 
 <h3> Example project 2: Disease prediction using machine learning </h3>
