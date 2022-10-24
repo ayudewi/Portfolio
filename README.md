@@ -14,14 +14,13 @@
 <li> Data visualisation using line, bar, scatter, histogram, KDE, heatmap, GIS map etc. </li>
 <li> Data generation and coding in Jupyter Notebook, R, Stata, Excel, and VS Code. </li>
 
-
 <h3> Example project 1: Malaria incidence in Africa, 2007-2017 </h3>
 Below is example of analysis of malaria in Africa to analyse effect of preventive measures on malaria cases. Check the detail and the code in repository here.
 
-![alt cases](images/MalariaCasesAfrica.png)
-![alt incidence](images/MalariaIncidenceAfrica.png)
-![alt heatmap](images/HeatMapMalaria.png)
-![alt urban](images/MalariaSanitationUrban.png)
+<img src="images/MalariaCasesAfrica.png" alt="cases" width=50%>
+<img src="images/MalariaIncidenceAfrica.png" alt="incidence" width=50%>
+<img src="images/HeatMapMalaria.png" alt="heatmap" width=50%>
+<img src="images/MalariaSanitationUrban.png" alt="urban" width=50%>
 
 <h3> Example project 2: Disease prediction using machine learning </h3>
 Under construction, please comeback later
