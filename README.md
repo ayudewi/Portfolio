@@ -17,12 +17,12 @@
 
 <h3> Example project 1: Malaria incidence in Africa, 2007-2017 </h3>
 Below is example of analysis of malaria in Africa to analyse effect of preventive measures on malaria cases. Check the detail and the code in repository here.
-<figure>
-<img src="images/MalariaCasesAfrica.png" alt="cases" class="center" width=70%>
-<img src="images/MalariaIncidenceAfrica.png" alt="incidence" class="center" width=70%>
-<img src="images/HeatMapMalaria.png" alt="heatmap" class="center" width=70%>
-<img src="images/MalariaSanitationUrban.png" alt="sanitation" class="center" width=70%>
-</figure>
+
+<img src="images/MalariaCasesAfrica.png" alt="cases" width=60%>
+<img src="images/MalariaIncidenceAfrica.png" alt="incidence" width=60%>
+<img src="images/HeatMapMalaria.png" alt="heatmap" width=60%>
+<img src="images/MalariaSanitationUrban.png" alt="sanitation"  width=60%>
+
 
 <h3> Example project 2: Disease prediction using machine learning </h3>
 Under construction, please comeback later
