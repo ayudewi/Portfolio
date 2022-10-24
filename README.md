@@ -17,11 +17,11 @@
 <h3> Example 1: Rabies and animal bites </h3>
 Below is example of analysis of animal bites and rabies. Check the detail and the code in repository <a href="https://www.kaggle.com/code/ayudewi/rabies">here</a>.
 <figure>
-<img src="images/rabiesgraph.png" alt="bites" width=50%>
+<img src="https://github.com/ayudewi/Portfolio/blob/main/images/rabiesgraph.png" alt="bites" width=50%>
 </figure>
 
 <h3> Example 2: Malaria in Africa, 2007-2017 </h3>
-Below is example of analysis of malaria in Africa to analyse effect of preventive measures on malaria cases. Check the detail and the code in repository <a href="https://www.kaggle.com/code/ayudewi/malaria-in-africa-2007-2017">here</a>.
+Below is example of analysis of malaria in Africa to analyse effect of preventive measures on malaria cases. Check the detail and the code in repository <a href="https://github.com/ayudewi/Portfolio/blob/main/images/HeatMapMalaria.png">here</a>.
 <figure>
 <img src="images/HeatMapMalaria.png" alt="heatmap" width=50%>
 </figure>
