@@ -17,13 +17,14 @@
 <h3> Example 1: Rabies and animal bites </h3>
 Below is example of analysis of animal bites and rabies. Check the detail and the code in repository <a href="https://www.kaggle.com/code/ayudewi/rabies">here</a>.
 <figure>
-<img src="images/rabiesgraph.png" width=50%>
+<img src= "images/rabiesgraph.png", width=50%>
 </figure>
 
 <h3> Example 2: Malaria in Africa, 2007-2017 </h3>
 Below is example of analysis of malaria in Africa to analyse effect of preventive measures on malaria cases. Check the detail and the code in repository <a href="https://www.kaggle.com/code/ayudewi/malaria-in-africa-2007-2017">here</a>.
 <figure>
-<img src="images/MalariaIncidenceAfrica.png" width=50%>
+<img src= "images/MalariaCasesAfrica.png", width=50%>
+<img src= "images/HeatMapMalaria.png", width=50%>
 </figure>
 
 <h3> Example 3: Disease prediction using machine learning </h3>
