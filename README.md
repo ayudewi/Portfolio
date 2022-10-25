@@ -23,7 +23,7 @@ Below is example of analysis of animal bites and rabies. Check the detail and th
 <h3> Example 2: Malaria in Africa, 2007-2017 </h3>
 Below is example of analysis of malaria in Africa to analyse effect of preventive measures on malaria cases. Check the detail and the code in repository <a href="https://www.kaggle.com/code/ayudewi/malaria-in-africa-2007-2017">here</a>.
 <figure>
-<img src="images/MalariaCasesAfrica.png" alt="malaria cases" width=60%>
+<img src="images/heatgraph.jpg" alt="malaria prevention" width=60%>
 </figure>
 
 <h3> Example 3: Disease prediction using machine learning </h3>
