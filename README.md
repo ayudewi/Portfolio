@@ -29,7 +29,11 @@ Below is example of analysis of malaria in Africa to analyse effect of preventiv
 </figure>
 
 <h3> Example 3: Disease prediction using machine learning </h3>
-Under construction, please comeback later
+Below is example of predicting malaria infection in patients if they have certain blood clinical features. Check the detail and the code in repository <a href="https://github.com/ayudewi/Detecting-Malaria-using-Machine-Learning/blob/74a21867ccf90f7738ea01b95a37cf333c6294f7/malaria-machinelearning.ipynb">here</a>.
+<figure>
+<img src="heatmapmal.png" alt="blood features">
+</figure>
+
 
 <h3> Example 4: Bioinformatics analysis to investigate disease origin </h3>
 Under construction, please comeback later
