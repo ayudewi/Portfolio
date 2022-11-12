@@ -11,7 +11,7 @@
 
 <h3> Skills </h3>
 <li> Analysed regression problem, classification problem, and clustering problem.  </li>
-<li> Data visualisation using line, bar, scatter, histogram, KDE, heatmap, GIS map etc. </li>
+<li> Data visualisation using line, bar, scatter, histogram, KDE, heatmap, GIS maps. </li>
 <li> Data generation and coding in Jupyter Notebook, R, Stata, Excel, and VS Code. </li>
 
 <h3> Example 1: Rabies and animal bites </h3>
@@ -29,7 +29,7 @@ Below is example of analysis of malaria in Africa to analyse effect of preventiv
 </figure>
 
 <h3> Example 3: Disease prediction using machine learning </h3>
-Below is example of predicting malaria infection in patients if they have certain blood clinical features. Check the detail and the code in repository <a href="https://github.com/ayudewi/Detecting-Malaria-using-Machine-Learning/blob/74a21867ccf90f7738ea01b95a37cf333c6294f7/malaria-machinelearning.ipynb">here</a>.
+Below is example of predicting malaria infection in patients based on blood clinical features. Check the detail and the code in repository <a href="https://github.com/ayudewi/Detecting-Malaria-using-Machine-Learning/blob/74a21867ccf90f7738ea01b95a37cf333c6294f7/malaria-machinelearning.ipynb">here</a>.
 <figure>
 <img src="heatmapmal.png" alt="blood features">
 </figure>
