@@ -43,8 +43,8 @@ Below is example of predicting malaria infection in patients based on blood clin
 <h3> Example 4: Bioinformatics analysis to investigate disease origin </h3>
 Under construction, please comeback later
 
-<h3> Example 5: Risk mapping using simple excel tool </h3>
-Below is example of a tool I created using VB in Ms. Excel. Check the application <a href="https://github.com/ayudewi/Portfolio/blob/main/riskmapIND.xlsm"> here </a>. Sorry it is still in Indonesian language, feel free to modify for your own use.
+<h3> Example 5: Risk mapping tool for risk assessment </h3>
+Below is example of a simple application for risk mapping and risk assessment I created using VB in Ms. Excel. Check the application <a href="https://github.com/ayudewi/Portfolio/blob/main/riskmapIND.xlsm"> here </a>. Sorry it is still in Indonesian language, feel free to modify for your own use.
 <figure>
 <img src="RiskMap.png" alt="risk mapping">
 </figure>  
