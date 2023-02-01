@@ -7,14 +7,20 @@
 <a href="https://orcid.org/0000-0001-7645-6424"> ORCiD </a>
 <p>
 
-<h2> Skills and example of data science projects </h2>
+<h2> Skills and example of epidemiology and data science projects </h2>
 
 <h3> Skills </h3>
 <li> Analysed regression problem, classification problem, and clustering problem.  </li>
 <li> Data visualisation using line, bar, scatter, histogram, KDE, heatmap, GIS maps. </li>
 <li> Data generation and coding in Jupyter Notebook, R, Stata, Excel, and VS Code. </li>
 
-<h3> Example 1: Rabies and animal bites </h3>
+<h3> Example 1a: Rabies outbreaks in Indonesia </h3>
+Below is an example of map of rabies cases and area where rabies are endemic in Indonesia. I produced this map using ArcGIS and published data from World Organisation for Animal Health (WOAH) <a href="https://www.woah.org/en/what-we-do/animal-health-and-welfare/disease-data-collection/world-animal-health-information-system/"> database </a> and Ministry of Health of Republic Indonesia's <a href="https://sehatnegeriku.kemkes.go.id/baca/umum/20200928/4735079/8-34-provinsi-indonesia-bebas-rabies/"> information. </a>
+<figure>
+<img src="Rabies2018.png" alt="rabies">
+</figure>
+
+<h3> Example 1b: Rabies and animal bites </h3>
 Below is example of analysis of animal bites and rabies. Check the detail and the code in repository <a href="https://www.kaggle.com/code/ayudewi/rabies">here</a>.
 <figure>
 <img src="images/rabiesgraph.png" alt="animal bites">
@@ -34,8 +40,14 @@ Below is example of predicting malaria infection in patients based on blood clin
 <img src="heatmapmal.png" alt="blood features">
 </figure>
 
-
 <h3> Example 4: Bioinformatics analysis to investigate disease origin </h3>
 Under construction, please comeback later
+
+<h3> Example 5: Risk mapping using simple excel tool </h3>
+Below is example of a tool I created using VB in Ms. Excel. Check the application <a href="https://github.com/ayudewi/Portfolio/blob/main/riskmapIND.xlsm"> here </a>. Sorry it is still in Indonesian language, feel free to modify for your own use.
+<figure>
+<img src="RiskMap.png" alt="risk mapping">
+</figure>  
+  
 
 <h4> Thank you ! </h4>
