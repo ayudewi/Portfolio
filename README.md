@@ -38,7 +38,7 @@ Below is example of predicting malaria infection in patients based on blood clin
 Under construction, please comeback later
 
 <h3> Example 5: Risk mapping tool for risk assessment </h3>
-Below is example of a simple application for risk mapping and risk assessment I created using VB in Ms. Excel. Check the application in <a href="https://github.com/ayudewi/Portfolio/blob/main/riskmapIND.xlsm"> here </a>. Sorry, it is still in the Indonesian language. In principle, the matrix shows how likely and the level of impact of potential drivers toward disease outbreaks are, demonstrated by the colors (red-yellow-green). This tool can be used in various programs such as risk registers in project management to help monitor and evaluate teams and activities, etc. Please let me know by email if you need guidance on how to perform this.
+Below is example of a simple application for risk mapping and risk assessment I created using VB in Ms. Excel. Check the application in <a href="https://github.com/ayudewi/Portfolio/blob/main/riskmapIND.xlsm"> here </a>. Sorry, it is still in the Indonesian language. In principle, the matrix shows how likely and the level of impact of potential drivers toward disease outbreaks are, demonstrated by the colors (red-yellow-green). This tool also can be used for other purposes such as risk registers in project management to help monitor and evaluate teams and activities, etc. Please let me know by email if you need guidance on how to perform this.
 <figure>
 <img src="RiskMap.png" alt="risk mapping">
 </figure>  
