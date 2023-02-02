@@ -38,7 +38,7 @@ Below is example of predicting malaria infection in patients based on blood clin
 Under construction, please comeback later
 
 <h3> Example 5: Risk mapping tool for risk assessment </h3>
-Below is example of a simple application for risk mapping and risk assessment I created using VB in Ms. Excel. Check the application <a href="https://github.com/ayudewi/Portfolio/blob/main/riskmapIND.xlsm"> here </a>. Sorry it is still in Indonesian language, feel free to modify for your own use.
+Below is example of a simple application for risk mapping and risk assessment I created using VB in Ms. Excel. Check the application in <a href="https://github.com/ayudewi/Portfolio/blob/main/riskmapIND.xlsm"> here </a>. Sorry it is still in Indonesian language. Let me know in email if you need guidance on how to do this.
 <figure>
 <img src="RiskMap.png" alt="risk mapping">
 </figure>  
