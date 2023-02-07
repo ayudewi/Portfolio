@@ -2,7 +2,7 @@
 <p> Master of Public Health in Biostatistics (MPH) and Doctor of Veterinary Medicine (DVM) </p>
 <a href="https://www.linkedin.com/in/ayuputumadridewi/"> LinkedIn </a> |
 <a href="https://www.twitter.com/ayupmdewi"> Twitter </a> |
-<a href="mailto:ayudew262@gmail.com">Email </a> |
+<a href="mailto:ayuputu.madridewi@gmail.com">Email </a> |
 <a href="https://github.com/ayudewi"> GitHub </a> |
 <a href="https://orcid.org/0000-0001-7645-6424"> ORCiD </a>
 <p>
@@ -38,7 +38,7 @@ Below is example of predicting malaria infection in patients based on blood clin
 Under construction, please comeback later
 
 <h3> Example 5: Risk mapping tool for risk assessment </h3>
-Below is example of a simple application for risk mapping and risk assessment I created using VB in Ms. Excel. Check the application in <a href="https://github.com/ayudewi/Portfolio/blob/main/riskmapIND.xlsm"> here </a>. Sorry, it is still in the Indonesian language. In principle, the matrix shows how likely and the level of impact of potential drivers toward disease outbreaks are, demonstrated by the colors (red-yellow-green). This tool also can be used for other purposes such as risk registers in project management to help monitor and evaluate teams and activities, etc. Please let me know by <a href="mailto:ayudew262@gmail.com"> email </a> should you need my guidance on how to perform this.
+Below is example of a simple application for risk mapping and risk assessment I created using VB in Ms. Excel. Check the application in <a href="https://github.com/ayudewi/Portfolio/blob/main/riskmapIND.xlsm"> here </a>. Sorry, it is still in the Indonesian language. In principle, the matrix shows how likely and the level of impact of potential drivers toward disease outbreaks are, demonstrated by the colors (red-yellow-green). This tool also can be used for other purposes such as risk registers in project management to help monitor and evaluate teams and activities, etc. Please let me know by <a href="mailto:ayuputu.madridewi@gmail.com"> email </a> should you need my guidance on how to perform this.
 <figure>
 <img src="RiskMap.png" alt="risk mapping">
 </figure>  
