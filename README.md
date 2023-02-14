@@ -11,7 +11,7 @@
 
 <h3> Skills </h3>
 <li> Analysed regression problem, classification problem, and clustering problem.  </li>
-<li> Data visualisation using line, bar, scatter, histogram, KDE, heatmap, GIS maps. </li>
+<li> Data visualisation using line, bar, scatter, histogram, KDE, heatmap, GIS maps, Power BI. </li>
 <li> Data generation and coding in Jupyter Notebook, R, Stata, Excel, and VS Code. </li>
 
 <h3> Example 1: Rabies outbreaks in Indonesia </h3>
