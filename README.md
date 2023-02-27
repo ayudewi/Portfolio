@@ -24,7 +24,7 @@ Below is an example of map of rabies cases and area where rabies are endemic in 
 Below is example of analysis of malaria in Africa to analyse effect of preventive measures on malaria cases. Check the detail and the code in repository <a href="https://www.kaggle.com/code/ayudewi/malaria-in-africa-2007-2017">here</a>.
 <figure>
   <img src="MalariaCasesAfrica1.png" alt="malaria cases">
-  <img src="boxplot.png" alt="malaria incidence">
+  <img src="incidencegraph.jpg" alt="malaria incidence">
   <img src="HeatMapMalaria.png" alt="malaria preventive measures">
   <img src="sanitationgraph.jpg" alt="effect sanitation on cases">
 </figure>
