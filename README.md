@@ -15,7 +15,7 @@
 <li> Data generation and coding in Jupyter Notebook, R, Stata, Excel, and VS Code. </li>
 
 <h3> Example 1: Rabies outbreaks in Indonesia </h3>
-Below is an example of map of rabies cases and area where rabies are endemic in Indonesia. I produced this map using ArcGIS and published data from World Organisation for Animal Health (OIE) <a href="https://www.woah.org/en/what-we-do/animal-health-and-welfare/disease-data-collection/world-animal-health-information-system/"> database </a> and Ministry of Health of Republic Indonesia's <a href="https://sehatnegeriku.kemkes.go.id/baca/umum/20200928/4735079/8-34-provinsi-indonesia-bebas-rabies/"> information. </a>
+Below is an example of a map of rabies cases and areas where rabies is endemic in Indonesia. I produced this map using ArcGIS and published data from the World Organisation for Animal Health (OIE) <a href="https://www.woah.org/en/what-we-do/animal-health-and-welfare/disease-data-collection/world-animal-health-information-system/"> database </a> and the Ministry of Health of Republic Indonesia's <a href="https://sehatnegeriku.kemkes.go.id/baca/umum/20200928/4735079/8-34-provinsi-indonesia-bebas-rabies/"> information. </a> 
 <figure>
 <img src="Rabies2018.png" alt="rabies">
 </figure>
