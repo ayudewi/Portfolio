@@ -44,5 +44,4 @@ Below is example of a simple application for risk mapping and risk assessment I 
 <img src="RiskMap.png" alt="risk mapping">
 </figure>  
   
-Feel free to reach me by <a href="mailto:ayuputu.madridewi@gmail.com"> email </a> if you have questions.
 <h4> Thank you ! </h4>
