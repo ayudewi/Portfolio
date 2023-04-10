@@ -1,6 +1,6 @@
 # Ayu Putu Madri Dewi
 <p> Master of Public Health in Biostatistics (MPH) and Doctor of Veterinary Medicine (DVM) </p>
-<a href="https://www.linkedin.com/in/ayuputumadridewi/"> LinkedIn </a> |
+<a href="https://www.linkedin.com/in/ayupmdewi/"> LinkedIn </a> |
 <a href="https://www.twitter.com/ayupmdewi"> Twitter </a> |
 <a href="mailto:ayuputu.madridewi@gmail.com">Email </a> |
 <a href="https://github.com/ayudewi"> GitHub </a> |
