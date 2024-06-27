@@ -35,8 +35,11 @@ Below is example of predicting malaria infection in patients based on blood clin
 <img src="heatmapmal.png" alt="blood features">
 </figure>
 
-<h3> Example 4: Bioinformatics analysis to investigate disease origin </h3>
-Under construction, please comeback later
+<h3> Example 4: Evidence gap map </h3>
+Below is example of evidence gap map I created using R. This graph is included in this <a href="https://osf.io/preprints/metaarxiv/a8rmu"> scoping review. </a>
+<figure>
+  <img src="egm1.jpg" alt="evidence gap map">
+</figure>
 
 <h3> Example 5: Risk mapping tool for risk assessment </h3>
 Below is example of a simple application for risk mapping and risk assessment I created using VB in Ms. Excel. Check the application in <a href="https://github.com/ayudewi/Portfolio/blob/main/riskmapIND.xlsm"> here </a>. Sorry, it is still in the Indonesian language. In principle, the matrix shows how likely and the level of impact of potential drivers toward disease outbreaks are, demonstrated by the colors (red-yellow-green). 
