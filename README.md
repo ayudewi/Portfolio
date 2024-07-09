@@ -4,7 +4,8 @@
 <a href="https://www.twitter.com/ayupmdewi"> Twitter </a> |
 <a href="mailto:ayuputu.madridewi@gmail.com">Email </a> |
 <a href="https://github.com/ayudewi"> GitHub </a> |
-<a href="https://orcid.org/0000-0001-7645-6424"> ORCiD </a>
+<a href="https://orcid.org/0000-0001-7645-6424"> ORCiD </a> |
+<a href="https://osf.io/jmntb/"> OSF </a>
 <p>
 
 <h2> Skills and example of epidemiology and data science projects </h2>
