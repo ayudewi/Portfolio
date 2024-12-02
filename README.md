@@ -1,6 +1,7 @@
 # Ayu Putu Madri Dewi
 <p> Master of Public Health in Biostatistics (MPH) and Doctor of Veterinary Medicine (DVM) </p>
 <a href="https://www.linkedin.com/in/ayupmdewi/"> LinkedIn </a> |
+<a href="https://g.co/kgs/d81ze7W"> Google Scholar </a> |
 <a href="https://www.twitter.com/ayupmdewi"> Twitter </a> |
 <a href="mailto:ayuputu.madridewi@gmail.com">Email </a> |
 <a href="https://github.com/ayudewi"> GitHub </a> |
@@ -16,7 +17,7 @@
 <li> Data generation and coding in Jupyter Notebook, R, Stata, Excel, SPSS, and VS Code. </li>
 
 <h3> Example 1: Rabies outbreaks in Indonesia </h3>
-Below is an example of a map of rabies cases and areas where rabies is endemic in Indonesia. I produced this map using ArcGIS and published data from the World Organisation for Animal Health (OIE) <a href="https://www.woah.org/en/what-we-do/animal-health-and-welfare/disease-data-collection/world-animal-health-information-system/"> database </a> and the Ministry of Health of Republic Indonesia's <a href="https://sehatnegeriku.kemkes.go.id/baca/umum/20200928/4735079/8-34-provinsi-indonesia-bebas-rabies/"> information. </a> 
+Below is an example of a map of rabies cases and areas where rabies is endemic in Indonesia. I produced this map using ArcGIS and published data from the <a href="https://www.woah.org/en/what-we-do/animal-health-and-welfare/disease-data-collection/world-animal-health-information-system/"> World Organisation for Animal Health (OIE)</a> and information from the <a href="https://sehatnegeriku.kemkes.go.id/baca/umum/20200928/4735079/8-34-provinsi-indonesia-bebas-rabies/"> Ministry of Health of Republic Indonesia. </a> 
 <figure>
 <img src="Rabies2018.png" alt="rabies">
 </figure>
