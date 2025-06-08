@@ -1,0 +1,15 @@
+body {
+  background-color: #ffffff !important;
+  color: #111111 !important;
+  font-family: "Segoe UI", "Helvetica Neue", sans-serif;
+}
+
+header, footer, nav, .site-header {
+  background-color: #ffffff !important;
+  color: #111111 !important;
+  border: none;
+}
+
+a {
+  color: #1a0dab;
+}
