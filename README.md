@@ -37,7 +37,7 @@ Below is example of predicting malaria infection in patients based on blood clin
 </figure>
 
 <h3> Example 4: Evidence gap map </h3>
-Below is example of evidence gap map I created using R. This graph is included in this <a href="https://osf.io/preprints/metaarxiv/a8rmu"> scoping review. </a> 
+Below is example of evidence gap map I created using R. This graph is included in this <a href="https://royalsocietypublishing.org/doi/10.1098/rsos.242057"> scoping review. </a> 
 I also share a tutorial on how to produce the graph using R on <a href="https://github.com/ayudewi/egm"> here. </a>
 <figure>
   <img src="egm1.jpg" alt="evidence gap map">
