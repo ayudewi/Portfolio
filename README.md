@@ -15,6 +15,7 @@
 <li> Analysed regression problem, classification problem, and clustering problem.  </li>
 <li> Data visualisation using line, bar, scatter, histogram, KDE, heatmap, GIS maps, Power BI. </li>
 <li> Data generation and coding in Jupyter Notebook, R, Stata, Excel, SPSS, and VS Code. </li>
+<li> Main focus: Emerging infectious diseases and zoonosis, particularly Avian Influenza, and Rabies. </li>
 
 <h3> Example 1: Rabies outbreaks in Indonesia </h3>
 Below is an example of a map of rabies cases and areas where rabies is endemic in Indonesia. I produced this map using ArcGIS and published data from the <a href="https://www.woah.org/en/what-we-do/animal-health-and-welfare/disease-data-collection/world-animal-health-information-system/"> World Organisation for Animal Health (OIE)</a> and information from the <a href="https://sehatnegeriku.kemkes.go.id/baca/umum/20200928/4735079/8-34-provinsi-indonesia-bebas-rabies/"> Ministry of Health of Republic Indonesia. </a> 
