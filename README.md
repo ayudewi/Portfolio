@@ -2,7 +2,7 @@
 <p> Master of Public Health in Biostatistics (MPH) and Doctor of Veterinary Medicine (DVM) </p>
 <a href="https://www.linkedin.com/in/ayupmdewi/"> LinkedIn </a> |
 <a href="https://g.co/kgs/d81ze7W"> Google Scholar </a> |
-<a href="mailto:ayuputu.madridewi@gmail.com">Email </a> |
+<a href="mailto:a.p.m.dewi@amsterdamumc.nl">Email </a> |
 <a href="https://github.com/ayudewi"> GitHub </a> |
 <a href="https://orcid.org/0000-0001-7645-6424"> ORCiD </a> |
 <a href="https://osf.io/jmntb/"> OSF </a> |
