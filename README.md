@@ -7,7 +7,7 @@
 <a href="https://orcid.org/0000-0001-7645-6424"> ORCiD </a> |
 <a href="https://osf.io/jmntb/"> OSF </a> |
 <a href="https://www.researchgate.net/profile/Ayu-Dewi-8"> Research Gate </a> |
-<a href="https://github.com/ayudewi/Portfolio/blob/main/CV%20Ayu%20011125.pdf"> CV </a>
+<a href="https://github.com/ayudewi/Portfolio/blob/main/CV%20Ayu.pdf"> CV </a>
 <p>
 
 <h2> Skills and example of epidemiology and data science projects </h2>
